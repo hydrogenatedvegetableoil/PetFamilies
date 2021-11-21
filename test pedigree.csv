@@ -1,0 +1,18 @@
+﻿,ped,id,father,mother,sex
+1,1,margaret,charlie blunt,Sarah Bull,2
+2,1,john,charlie blunt,Sarah Bull,1
+3,1,yuge ,charlie blunt,Sarah Bull,2
+4,1,Sarah Bull,,,2
+5,1,charlie blunt,,,1
+6,1,rhys,,,1
+7,1,foetus,rhys,margaret,1
+8,1,Amy McMahon,,,2
+9,1,Kathryn Scott,,,1
+10,1,Gloria,Kathryn Scott,Amy McMahon,2
+11,1,Sarah ,Kathryn Scott,Amy McMahon,2
+12,1,Philip,Sebastian Ljung,Megan Driver,1
+13,1,Sebastian Ljung,,,1
+14,1,Megan Driver,,,2
+15,1,Dylan ,joe devine,Shingtak Lam ,1
+16,1,joe devine,,,1
+17,1,Shingtak Lam ,,,2
